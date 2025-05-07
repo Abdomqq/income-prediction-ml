@@ -1,7 +1,8 @@
 # Income Prediction AI Project
 
 ## 📄 Overview
-This project aims to predict income levels using various machine learning classification models. The workflow includes extensive data preprocessing, feature selection, model training, evaluation, and a performance comparison across different classifiers.
+This is a artificial intelligence project completed as part of coursework at Ain Shams University Spring 2022. The project predicts the Income based on various features using regression and classification models.
+
 
 ## 🚀 Features
 - Data Cleaning and Preprocessing
@@ -12,17 +13,6 @@ This project aims to predict income levels using various machine learning classi
 - Model Evaluation and Performance Comparison
 - Final Report Documentation
 
-## 📂 Project Structure
-
-## 🛠️ Tech Stack
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- SciPy
 
 ## 🔎 Project Details
 
